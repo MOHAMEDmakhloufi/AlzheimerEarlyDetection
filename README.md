@@ -1,3 +1,4 @@
 # AlzheimerEarlyDetection
-![AD](https://github.com/user-attachments/assets/e87ad1d1-dc2e-495e-9166-51feab7e3537)
+![AD (1)](https://github.com/user-attachments/assets/86fb7f14-3657-41f8-b2a2-367196030b65)
+
 
