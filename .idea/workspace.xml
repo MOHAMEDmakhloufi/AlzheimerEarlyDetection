@@ -34,7 +34,7 @@
     "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/mohamed/PycharmProjects/AlzheimerEarlyDetection/test_scraped_dataset/cd_data",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -105,7 +105,7 @@
       <workItem from="1730152246972" duration="472000" />
       <workItem from="1730235917933" duration="4133000" />
       <workItem from="1730319322647" duration="41000" />
-      <workItem from="1730454404571" duration="1107000" />
+      <workItem from="1730454404571" duration="1444000" />
     </task>
     <servers />
   </component>
